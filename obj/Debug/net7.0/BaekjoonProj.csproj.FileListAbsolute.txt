@@ -1,0 +1,15 @@
+D:\Documents\Visual Studio Project\BaekjoonProj\bin\Debug\net7.0\BaekjoonProj.exe
+D:\Documents\Visual Studio Project\BaekjoonProj\bin\Debug\net7.0\BaekjoonProj.deps.json
+D:\Documents\Visual Studio Project\BaekjoonProj\bin\Debug\net7.0\BaekjoonProj.runtimeconfig.json
+D:\Documents\Visual Studio Project\BaekjoonProj\bin\Debug\net7.0\BaekjoonProj.dll
+D:\Documents\Visual Studio Project\BaekjoonProj\bin\Debug\net7.0\BaekjoonProj.pdb
+D:\Documents\Visual Studio Project\BaekjoonProj\obj\Debug\net7.0\BaekjoonProj.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio Project\BaekjoonProj\obj\Debug\net7.0\BaekjoonProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Visual Studio Project\BaekjoonProj\obj\Debug\net7.0\BaekjoonProj.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio Project\BaekjoonProj\obj\Debug\net7.0\BaekjoonProj.AssemblyInfo.cs
+D:\Documents\Visual Studio Project\BaekjoonProj\obj\Debug\net7.0\BaekjoonProj.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio Project\BaekjoonProj\obj\Debug\net7.0\BaekjoonProj.dll
+D:\Documents\Visual Studio Project\BaekjoonProj\obj\Debug\net7.0\refint\BaekjoonProj.dll
+D:\Documents\Visual Studio Project\BaekjoonProj\obj\Debug\net7.0\BaekjoonProj.pdb
+D:\Documents\Visual Studio Project\BaekjoonProj\obj\Debug\net7.0\BaekjoonProj.genruntimeconfig.cache
+D:\Documents\Visual Studio Project\BaekjoonProj\obj\Debug\net7.0\ref\BaekjoonProj.dll
