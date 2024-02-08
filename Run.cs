@@ -10,7 +10,7 @@ namespace BaekjoonProj
     {
         static void Main(string[] args)
         {
-            _9506.Run(args);
+            _11653.Run(args);
         }
     }
 }
