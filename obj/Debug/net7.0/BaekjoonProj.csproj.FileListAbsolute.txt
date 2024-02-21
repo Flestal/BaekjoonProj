@@ -13,3 +13,18 @@ D:\Documents\Visual Studio Project\BaekjoonProj\obj\Debug\net7.0\refint\Baekjoon
 D:\Documents\Visual Studio Project\BaekjoonProj\obj\Debug\net7.0\BaekjoonProj.pdb
 D:\Documents\Visual Studio Project\BaekjoonProj\obj\Debug\net7.0\BaekjoonProj.genruntimeconfig.cache
 D:\Documents\Visual Studio Project\BaekjoonProj\obj\Debug\net7.0\ref\BaekjoonProj.dll
+D:\Documents\GitHub\BaekjoonProj\bin\Debug\net7.0\BaekjoonProj.exe
+D:\Documents\GitHub\BaekjoonProj\bin\Debug\net7.0\BaekjoonProj.deps.json
+D:\Documents\GitHub\BaekjoonProj\bin\Debug\net7.0\BaekjoonProj.runtimeconfig.json
+D:\Documents\GitHub\BaekjoonProj\bin\Debug\net7.0\BaekjoonProj.dll
+D:\Documents\GitHub\BaekjoonProj\bin\Debug\net7.0\BaekjoonProj.pdb
+D:\Documents\GitHub\BaekjoonProj\obj\Debug\net7.0\BaekjoonProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\BaekjoonProj\obj\Debug\net7.0\BaekjoonProj.AssemblyInfoInputs.cache
+D:\Documents\GitHub\BaekjoonProj\obj\Debug\net7.0\BaekjoonProj.AssemblyInfo.cs
+D:\Documents\GitHub\BaekjoonProj\obj\Debug\net7.0\BaekjoonProj.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\BaekjoonProj\obj\Debug\net7.0\BaekjoonProj.sourcelink.json
+D:\Documents\GitHub\BaekjoonProj\obj\Debug\net7.0\BaekjoonProj.dll
+D:\Documents\GitHub\BaekjoonProj\obj\Debug\net7.0\refint\BaekjoonProj.dll
+D:\Documents\GitHub\BaekjoonProj\obj\Debug\net7.0\BaekjoonProj.pdb
+D:\Documents\GitHub\BaekjoonProj\obj\Debug\net7.0\BaekjoonProj.genruntimeconfig.cache
+D:\Documents\GitHub\BaekjoonProj\obj\Debug\net7.0\ref\BaekjoonProj.dll
