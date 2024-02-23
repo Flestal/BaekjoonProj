@@ -1,1 +1,6 @@
-.vs/
+.vs/*
+.vs/BaekjoonProj/DesignTimeBuild/.dtbcache.v2
+.vs/BaekjoonProj/v17/.futdcache.v2
+*.v2
+.vs/BaekjoonProj/v17/.suo
+bin/*
