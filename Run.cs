@@ -10,7 +10,11 @@ namespace BaekjoonProj
     {
         static void Main(string[] args)
         {
+<<<<<<< Updated upstream
             _1450.Run(args);
+=======
+            _4779.Run(args);
+>>>>>>> Stashed changes
         }
     }
 }
