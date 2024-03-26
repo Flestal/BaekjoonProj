@@ -6,7 +6,8 @@
         {
             System.Text.StringBuilder sb = new System.Text.StringBuilder();
             int T = int.Parse(Console.ReadLine());
-            HashSet<int> set = new HashSet<int>();
+            //HashSet<int> set = new HashSet<int>();
+            int bit = 0;
             for(int _= 0; _ < T; _++ )
             {
                 string[] input = Console.ReadLine().Split();
@@ -16,25 +17,34 @@
                 switch (input[0])
                 {
                     case "add":
-                        set.Add(inputInt);
+                        //set.Add(inputInt);
+                        if((bit & (1 << inputInt))==0)
+                            bit += 1 << inputInt;
                         break;
                     case "remove":
-                        set.Remove(inputInt);
+                        //set.Remove(inputInt);
+                        if ((bit & (1 << inputInt)) == (1 << inputInt))
+                            bit -= 1 << inputInt;
                         break;
                     case "check":
-                        if (set.Contains(inputInt)) sb.AppendLine("1");
+                        //if (set.Contains(inputInt)) sb.AppendLine("1");
+                        //else sb.AppendLine("0");
+                        if ((bit & (1 << inputInt)) == (1 << inputInt)) sb.AppendLine("1");
                         else sb.AppendLine("0");
                         break;
                     case "toggle":
-                        if (set.Contains(inputInt)) set.Remove(inputInt);
-                        else set.Add(inputInt);
+                        bit^=(1 << inputInt);
+                        //if (set.Contains(inputInt)) set.Remove(inputInt);
+                        //else set.Add(inputInt);
                         break;
                     case "all":
-                        set=new HashSet<int> 
-                        {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20};
+                        bit = 2097151;
+                        //set=new HashSet<int> 
+                        //{1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20};
                         break;
                     case "empty":
-                        set = new HashSet<int>();
+                        bit = 0;
+                        //set = new HashSet<int>();
                         break;
                 }
             }
