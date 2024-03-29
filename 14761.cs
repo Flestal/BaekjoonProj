@@ -1,15 +1,16 @@
 ﻿namespace BaekjoonProj
 {
-    internal class programmers
+    internal class _14761
     {
         public static void Run(string[] args)
         {
             System.Text.StringBuilder sb = new System.Text.StringBuilder();
-            int Fizz = 3, Buzz = 5;
+            int[] XYN = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
+            int Fizz = XYN[0];
+            int Buzz = XYN[1];
             bool flag;
-            for(int i = 0; i < 100; i++)
+            for(int i = 1; i <= XYN[2]; i++)
             {
-                sb.Append(i.ToString()).Append(" : ");
                 flag = true;
                 if (i % Fizz == 0)
                 {
@@ -22,7 +23,9 @@
                     sb.Append("Buzz");
                 }
                 if (flag)
-                    sb.Append(i.ToString());
+                {
+                    sb.Append(i);
+                }
                 sb.AppendLine();
             }
             Console.WriteLine(sb);
