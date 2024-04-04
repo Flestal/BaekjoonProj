@@ -22,11 +22,6 @@ namespace BaekjoonProj
                 this.list = start;
                 this.count = 1;
             }
-            public void Append(string str)
-            {
-                this.list += ',' + str;
-                this.count++;
-            }
         }
         public static void Run(string[] args)
         {
