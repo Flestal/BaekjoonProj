@@ -7,7 +7,7 @@
             System.Text.StringBuilder sb = new System.Text.StringBuilder();
             int Fizz = 3, Buzz = 5;
             bool flag;
-            for(int i = 0; i < 100; i++)
+            for (int i = 0; i < 100; i++)
             {
                 sb.Append(i.ToString()).Append(" : ");
                 flag = true;
@@ -25,7 +25,7 @@
                     sb.Append(i.ToString());
                 sb.AppendLine();
             }
-            Console.WriteLine(sb);
+            Console.WriteLine(sb);  
         }
     }
 }
