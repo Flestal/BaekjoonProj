@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "8pDRTW3APvFQ5yuMiYPuduSmZL0aM0DSVCp70bqa7iUtH5zsEVYAKH9q9xhRjL68VsRf8fsiJOLEOqogvFtTsQ==",
+  "dgSpecHash": "WS/FB8hPYsLwyFwqNr9CTCpz/EzeD3xh8KPqayFupk7DXXpFhNO82DXycuEltTvxnJBQVMLG+YuQPHqFswqGuA==",
   "success": true,
   "projectFilePath": "D:\\Documents\\GitHub\\BaekjoonProj\\BaekjoonProj.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ㅇㅇ\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\ㅇㅇ\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\ㅇㅇ\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
-    "C:\\Users\\ㅇㅇ\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+    "C:\\Users\\ㅇㅇ\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\ㅇㅇ\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\ㅇㅇ\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\ㅇㅇ\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
   ],
   "logs": []
 }
