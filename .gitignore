@@ -4,3 +4,4 @@
 *.v2
 .vs/BaekjoonProj/v17/.suo
 bin/*
+/obj
