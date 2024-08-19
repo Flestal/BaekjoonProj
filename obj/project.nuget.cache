@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WS/FB8hPYsLwyFwqNr9CTCpz/EzeD3xh8KPqayFupk7DXXpFhNO82DXycuEltTvxnJBQVMLG+YuQPHqFswqGuA==",
+  "dgSpecHash": "ILFnyvgxa2IbZjAgMpX7RlaLKcRe27pk4FFtZQitnogq7pyCFQb8gmAKSGWH9ys3Iubqs1aZ5T77XvnBbbKjaw==",
   "success": true,
-  "projectFilePath": "D:\\Documents\\GitHub\\BaekjoonProj\\BaekjoonProj.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ㅇㅇ\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\ㅇㅇ\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\ㅇㅇ\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\ㅇㅇ\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Documents\\Visual Studio Project\\BaekjoonProj\\BaekjoonProj.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
